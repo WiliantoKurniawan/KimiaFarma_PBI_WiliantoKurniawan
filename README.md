@@ -1,4 +1,4 @@
-# Kimia-Farma---Final-Task---PBI---Wilianto-Kurniawan
+# Kimia Farma - Final Task PBI - Wilianto-Kurniawan
 
 #membuat CTE untuk melakukan kategorisasi persentase gross laba berdasarkan kelompok harga 
 WITH gross_laba AS(
